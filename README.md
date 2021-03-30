@@ -6,16 +6,16 @@ Materiale nga fusha e Mekatronikes - Mechatronics materials
 <!-- BLOG-POST-LIST:START -->
 - [Application development](https://dev.to/)
 
-[C plus plus] (https://dev.to/)
-[Algjebra e Bool-it] (https://drive.google.com/file/d/0B863c1ZQE1AXNTJKUG5DMXpyaUk/view?usp=sharing)
-[Elektro-teknike] (https://dev.to/)
-[Elemente-Informatike]
-[Fizike]
-[Kimi]
-[Komunikim Inxhinierik]
-[Probabilitet dhe statistike]
+- [C plus plus] (https://dev.to/)
+- [Algjebra e Bool-it] (https://drive.google.com/file/d/0B863c1ZQE1AXNTJKUG5DMXpyaUk/view?usp=sharing/)
+- [Elektro-teknike] ()
+- [Elemente-Informatike]
+- [Fizike]
+- [Kimi]
+- [Komunikim Inxhinierik]
+- [Probabilitet dhe statistike]
 
-[Teza]
+- [Teza te ndryshme]
 
 
 <!-- BLOG-POST-LIST:END -->
