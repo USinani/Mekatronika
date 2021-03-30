@@ -5,9 +5,9 @@ Materiale nga fusha e Mekatronikes - Mechatronics materials
 
 <!-- BLOG-POST-LIST:START -->
 - [Application development](https://dev.to/)
-
-- [C plus plus] (https://dev.to/)
-- [Algjebra e Bool-it] (https://drive.google.com/file/d/0B863c1ZQE1AXNTJKUG5DMXpyaUk/view?usp=sharing/)
+- ➡️ [ Burime te tjera ...](https://drive.google.com/file/d/0B863c1ZQE1AXNTJKUG5DMXpyaUk/view?usp=sharing/)
+- [C plus plus] ()
+- [Algjebra e Bool-it] ()
 - [Elektro-teknike] ()
 - [Elemente-Informatike]
 - [Fizike]
