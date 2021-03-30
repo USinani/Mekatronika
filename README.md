@@ -5,14 +5,14 @@ Materiale nga fusha e Mekatronikes - Mechatronics materials
 
 <!-- BLOG-POST-LIST:START -->
 
-- ➡️ [ Algjebra e BOOL-it](https://drive.google.com/file/d/0B863c1ZQE1AXNTJKUG5DMXpyaUk/view?usp=sharing/)
-- - ➡️ [ C plus plus](https://drive.google.com/drive/folders/0B863c1ZQE1AXNy1SSTUxOHpZclE?usp=sharing)
-- - ➡️ [ Elektro-Teknike](https://drive.google.com/drive/folders/0B863c1ZQE1AXNEhDZ2hoVnJra2s?usp=sharing)
-- - ➡️ [ Elemente Informatike](https://drive.google.com/drive/folders/0B863c1ZQE1AXMllORHJaLTBJVWc?usp=sharing)
-- - ➡️ [ Fizike](https://drive.google.com/drive/folders/0B863c1ZQE1AXci1XbVFORHZnMXM?usp=sharing)
-- - ➡️ [ Kimi](https://drive.google.com/drive/folders/0B863c1ZQE1AXUm9BNFRzNERiY00?usp=sharing)
-- - ➡️ [ Komunikim inxhinierik](https://drive.google.com/drive/folders/0B863c1ZQE1AXbTlKcnBDUEpXV1k?usp=sharing)
-- - ➡️ [ Probabilitet dhe Statistike](https://drive.google.com/drive/folders/0B863c1ZQE1AXYVY3RmtYcnk2Wk0?usp=sharing)
+➡️ [ Algjebra e BOOL-it](https://drive.google.com/file/d/0B863c1ZQE1AXNTJKUG5DMXpyaUk/view?usp=sharing/)
+➡️ [ C plus plus](https://drive.google.com/drive/folders/0B863c1ZQE1AXNy1SSTUxOHpZclE?usp=sharing)
+➡️ [ Elektro-Teknike](https://drive.google.com/drive/folders/0B863c1ZQE1AXNEhDZ2hoVnJra2s?usp=sharing)
+➡️ [ Elemente Informatike](https://drive.google.com/drive/folders/0B863c1ZQE1AXMllORHJaLTBJVWc?usp=sharing)
+➡️ [ Fizike](https://drive.google.com/drive/folders/0B863c1ZQE1AXci1XbVFORHZnMXM?usp=sharing)
+➡️ [ Kimi](https://drive.google.com/drive/folders/0B863c1ZQE1AXUm9BNFRzNERiY00?usp=sharing)
+➡️ [ Komunikim inxhinierik](https://drive.google.com/drive/folders/0B863c1ZQE1AXbTlKcnBDUEpXV1k?usp=sharing)
+➡️ [ Probabilitet dhe Statistike](https://drive.google.com/drive/folders/0B863c1ZQE1AXYVY3RmtYcnk2Wk0?usp=sharing)
 
 
 <!-- BLOG-POST-LIST:END -->
